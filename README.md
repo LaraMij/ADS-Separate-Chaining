@@ -12,14 +12,14 @@ Usage
 Clone the Repository
 sh
 Code kopieren
-git clone https://github.com/yourusername/separate-chaining-algorithm.git
+git clone https://github.com/LaraMij/ADS-Separate-Chaining.git
 Include the Header File
 To use the separate chaining hash table, include the ADS_set.h file in your C++ project:
 
 cpp
 Code kopieren
 #include "ADS_set.h"
-Example
+# Example
 Here is a simple example demonstrating how to use the hash table:
 
 cpp
