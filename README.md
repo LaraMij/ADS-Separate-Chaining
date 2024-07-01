@@ -4,4 +4,3 @@ Features
 Efficient Collision Handling: Uses linked lists to handle collisions, ensuring efficient storage and retrieval.
 Custom Hash Function: Implements a custom hash function to distribute keys evenly.
 Basic Operations: Supports insertion, deletion, and search operations.
-Simple Interface: Provides a clear and simple interface for interacting with the hash table
